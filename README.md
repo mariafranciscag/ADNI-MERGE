@@ -43,6 +43,7 @@ This repository contains the code for the first multiclass extensions of SLIM-GS
 
 
 ## Repository Structure
+```
 .
 ├── data/                        # Not versioned (ADNI Data Use Agreement) — see "Data Access"
 │   └── ADNIMERGE.csv            # Place the downloaded file here
@@ -53,6 +54,7 @@ This repository contains the code for the first multiclass extensions of SLIM-GS
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 ## Installation
         -- to be added
